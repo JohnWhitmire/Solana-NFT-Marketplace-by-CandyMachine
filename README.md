@@ -1,5 +1,5 @@
 # 🎨 Solana-NFT-Marketplace-by-CandyMachine - Create and Sell NFTs Easily
- 
+  
 ## 🚀 Getting Started
 
 Welcome to the Solana NFT Marketplace powered by Candy Machine V2. This application lets you create and sell your own NFTs with ease. You can also set up your own secondary marketplace to trade these NFTs.  
