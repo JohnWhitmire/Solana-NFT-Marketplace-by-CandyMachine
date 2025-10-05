@@ -49,7 +49,7 @@ Vercel will automatically deploy new prod packages for each new commit.
 
 * Download a Code Editor such as Visual Studio Code.
 
-* Ensure you have both `nodejs` and `yarn` installed. `nodejs` recommended version is 16.
+* Ensure you have both `nodejs` and `yarn` installed. `nodejs` recommended version is 15.
 
 * Follow the instructions [here](https://docs.solana.com/cli/install-solana-cli-tools) to install the Solana Command Line Toolkit.
 
