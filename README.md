@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 Welcome to the Solana NFT Marketplace powered by Candy Machine V2. This application lets you create and sell your own NFTs with ease. You can also set up your own secondary marketplace to trade these NFTs.
 This repo allows you to sell NFTs through Candy Machine V2 and host your own secondary marketplace with [Candy Shop](https://github.com/PierreAndre8099/Solana-NFT-Marketplace-by-CandyMachine).
-
+ 
 Supports the following marketplace configurations:
 * Basic SOL marketplace
 * Basic custom SPL token marketplace
